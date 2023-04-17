@@ -1,0 +1,9 @@
+num1=eval(input("Enter First Number :"))#21
+num2=eval(input("Enter Second Number :"))#5
+print(num1,"+",num2,"=",num1+num2)#26
+print(num1,"-",num2,"=",num1-num2)#16
+print(num1,"*",num2,"=",num1*num2)#105
+print(num1,"/",num2,"=%.4f"%(num1/num2))#4.2
+print(num1,"%",num2,"=",num1%num2)#1
+print(num1,"**",num2,"=",num1**num2)#
+print(num1,"//",num2,"=",num1//num2)#4
